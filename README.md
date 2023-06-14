@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/admin?q=%2Fadmin](https://linktr.ee/admin?q=%2Fadmin)
+- 👨‍💻 All of my projects are available at [(https://tr.ee/4xP9rOicRL)](https://tr.ee/4xP9rOicRL)
 
 - 📝 I regularly write articles on [https://freelearn.online/](https://freelearn.online/)
 
