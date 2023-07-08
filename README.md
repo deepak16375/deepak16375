@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 👨‍💻 All of my projects are available at [(https://tr.ee/4xP9rOicRL)](https://tr.ee/4xP9rOicRL)
+ /* - 👨‍💻 All of my projects are available at [(https://tr.ee/4xP9rOicRL)](https://tr.ee/4xP9rOicRL)
 
-- 📝 I regularly write articles on [https://freelearn.online/](https://freelearn.online/)
+- 📝 I regularly write articles on [https://freelearn.online/](https://freelearn.online/) */
 
 - 📫 How to reach me **devwithdeepak@gmail.com**
 
