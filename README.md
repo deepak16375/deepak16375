@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://th.bing.com/th/id/OIP.VON9gHTrzeHZbHfXsqfzEAHaEq?pid=ImgDet&rs=1](https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak16375&label=Profile%20views&color=0e75b6&style=flat" alt="deepak16375" /> </p>
 
