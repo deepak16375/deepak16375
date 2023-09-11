@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 💬 Ask me about **html, CSS, JavaScript**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **devwithdeepak@gmail.com**
 
