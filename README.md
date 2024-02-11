@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak16375&label=Profile%20views&color=0e75b6&style=flat" alt="deepak16375" /> </p>
 
 
-- 🌱 I’m currently learning **Full stack Development**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Web development**
 
